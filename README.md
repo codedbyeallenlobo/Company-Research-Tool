@@ -16,7 +16,7 @@ Set two keys in your environment:
 ## Usage
 
 ```bash
-python research_agent.py "Anthropic"
+python research_agent.py "Tesla"
 ```
 
 Progress goes to stderr, the brief to stdout — so you can redirect it:
